@@ -1,3 +1,5 @@
+*claude made tool*
+
 ### 1. Missing Import - The Python Import That Wasn't There
 **Location:** `pocsag_gqrx.py`, line 16  
 **Severity:** Critical - Code won't run  
